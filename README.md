@@ -39,18 +39,18 @@ If you don’t have a requirements.txt, you can install the libraries individual
 pip install numpy pandas matplotlib
 ```
 
-##Usage
+## Usage
 Open the Notebook:
 
-Open the Copy_of_Resume_Bias_Test.ipynb file in your preferred environment (Jupyter Notebook or Google Colab).
+- Open the Copy_of_Resume_Bias_Test.ipynb file in your preferred environment (Jupyter Notebook or Google Colab).
 
 Run the Notebook:
 
 Execute the cells sequentially to:
 
-Load the resume data.
+- Load the resume data.
 
-Preprocess and analyze the data.
+- Preprocess and analyze the data.
 
 
 
