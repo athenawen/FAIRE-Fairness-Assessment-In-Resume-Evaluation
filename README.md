@@ -21,23 +21,23 @@ matplotlib
 ### Installation
 Clone the repository:
 
-'''
+```
 git clone https://github.com/your_username/resume-bias-test.git
 cd resume-bias-test
-'''
+```
 
 Install the required Python packages:
 
 You can install the dependencies using pip (assuming you have a requirements.txt file):
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 If you don’t have a requirements.txt, you can install the libraries individually:
 
-'''
+```
 pip install numpy pandas matplotlib
-'''
+```
 
 ##Usage
 Open the Notebook:
