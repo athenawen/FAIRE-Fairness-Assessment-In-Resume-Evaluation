@@ -42,7 +42,7 @@ pip install numpy pandas matplotlib
 ## Usage
 Open the Notebook:
 
-- Open the Copy_of_Resume_Bias_Test.ipynb file in your preferred environment (Jupyter Notebook or Google Colab).
+- Open the file in your preferred environment (Jupyter Notebook or Google Colab).
 
 Run the Notebook:
 
@@ -50,15 +50,10 @@ Execute the cells sequentially to:
 
 - Load the resume data.
 
-- Preprocess and analyze the data.
+- Analyze the data.
 
 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgements
-Thanks to the contributors and the community for insights on resume bias analysis.
-
-Inspiration from various research studies on bias in recruitment and data analysis.
 
